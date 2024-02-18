@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\",
+  "WorkspaceRootPath": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\documents\\entrenamiento net\\crud net core\\crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\documents\\entrenamiento net\\crud net core\\crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\documents\\entrenamiento net\\crud net core\\crudnet8mvc\\migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\documents\\entrenamiento net\\crud net core\\crudnet8mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\documents\\entrenamiento net\\crud net core\\crudnet8mvc\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\source\\repos\\cursonet\\net core\\crudnet8mvc\\migrations\\20240214213746_migracioninicialcontacto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\cristian.ruizv\\documents\\entrenamiento net\\crud net core\\crudnet8mvc\\migrations\\20240214213746_migracioninicialcontacto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47EC2D15-713D-44F0-BA1F-12FF60C4A888}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\migrations\\20240214213746_migracioninicialcontacto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,69 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Datos\\AplicationDBContext.cs",
-              "RelativeDocumentMoniker": "CrudNet8MVC\\Datos\\AplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Datos\\AplicationDBContext.cs",
-              "RelativeToolTip": "CrudNet8MVC\\Datos\\AplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T16:45:14.92Z",
+              "WhenOpened": "2024-02-18T19:55:16.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Datos\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Datos\\AplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Datos\\AplicationDBContext.cs",
+              "RelativeToolTip": "CrudNet8MVC\\Datos\\AplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:45:14.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AplicationDBContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Migrations\\AplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Migrations\\AplicationDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Migrations\\AplicationDBContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Migrations\\AplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Migrations\\AplicationDBContextModelSnapshot.cs",
               "RelativeToolTip": "CrudNet8MVC\\Migrations\\AplicationDBContextModelSnapshot.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T16:17:44.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20240214213746_MigracionInicialContacto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.Designer.cs",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.Designer.cs",
-              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.Designer.cs",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.Designer.cs",
               "RelativeToolTip": "CrudNet8MVC\\Migrations\\20240214213746_MigracionInicialContacto.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T16:15:18.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T16:15:18.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\appsettings.json",
               "RelativeDocumentMoniker": "CrudNet8MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\appsettings.json",
               "RelativeToolTip": "CrudNet8MVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAB4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-18T16:12:02.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T16:12:02.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Program.cs",
               "RelativeDocumentMoniker": "CrudNet8MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\Program.cs",
               "RelativeToolTip": "CrudNet8MVC\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAiwCoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T15:54:21.352Z",
               "EditorCaption": ""

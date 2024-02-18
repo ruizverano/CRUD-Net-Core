@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\CrudNet8MVC.csproj": {}
+    "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\CrudNet8MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\CrudNet8MVC.csproj": {
+    "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\CrudNet8MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\CrudNet8MVC.csproj",
+        "projectUniqueName": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\CrudNet8MVC.csproj",
         "projectName": "CrudNet8MVC",
-        "projectPath": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\CrudNet8MVC.csproj",
+        "projectPath": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\CrudNet8MVC.csproj",
         "packagesPath": "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\obj\\",
+        "outputPath": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -24,7 +24,7 @@ namespace CrudNet8MVC.Controllers
         }
 
         [HttpGet]//metodo get, tomado en cuenta en el envío del formulario desde la vista
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index() //declaracion del metodo index como asincrono
         {
             return View(await _contexto.Contacto.ToListAsync());
         }

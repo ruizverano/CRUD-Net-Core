@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LAMrncn0xQSNwjsHnGZskrcE+/YG3OZHWySW0Ha/WF9WagVdRvweSiuojsfs7ePfWoSlrtVO/otMKX5Lx9UnyQ==",
+  "dgSpecHash": "zX4Mc3D3zPkaB8UIkl+pxKHATZTDx9lcVXfUld18qhw+f0EBUC/0+++h74HA09bXoG87WCVbNNh24wbq0vDQvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core\\CrudNet8MVC\\CrudNet8MVC.csproj",
+  "projectFilePath": "C:\\Users\\CRISTIAN.RUIZV\\Documents\\Entrenamiento NET\\CRUD Net Core\\CrudNet8MVC\\CrudNet8MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
