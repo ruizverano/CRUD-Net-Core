@@ -1,0 +1,28 @@
+﻿@model CrudNet8MVC.Models.Contacto
+@{
+    ViewData["Title"] = "Detalle contacto";
+}
+
+<h1 class="text-center">Contacto con  .NET 8 CORE MVC</h1>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="card-header bg-dark">
+                <h3 class="text-white"><strong>Detalle de usuario</strong></h3>
+            </div>
+                <ul class="list-group">
+                    <li class="list-group-item"><strong>Nombre: </strong>@Html.DisplayFor(m=>m.Nombre)</li>
+                    <li class="list-group-item"><strong>Nro. de Telefono: </strong>@Html.DisplayFor(m => m.Telefono)</li>
+                    <li class="list-group-item"><strong>Nro. de Celular: </strong>@Html.DisplayFor(m => m.Celular)</li>
+                    <li class="list-group-item"><strong>Correo Electronico: </strong>@Html.DisplayFor(m=>m.Email)</li>
+                </ul>
+            <div class="card-body bg-white">
+                
+                <a asp-asp-controller="Inicio" asp-action="">Volver</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+</div>                            
